@@ -1,4 +1,4 @@
-# Exerc-cios_Python
+# Exercicios_Python
 Feito no Google Colab - Curso Iniciante em Python
 
 
